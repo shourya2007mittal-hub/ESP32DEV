@@ -7654,6 +7654,19 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "ESP32 DEVBOARD"
+		(at 139.3 87.24 0)
+		(layer "B.SilkS")
+		(uuid "de96b166-6b6b-4c4b-8c3d-27ce002b9e21")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.5)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(segment
 		(start 123.08 111.49)
 		(end 123.325 111.49)
