@@ -269,7 +269,7 @@
 		(descr "Through hole straight pin header, 1x18, 2.00mm pitch, single row")
 		(tags "Through hole pin header THT 1x18 2.00mm single row")
 		(property "Reference" "J3"
-			(at 0 -2.11 0)
+			(at 0 -2.25 0)
 			(layer "F.SilkS")
 			(uuid "fe6821d4-9871-4380-8bca-58566a81a379")
 			(effects
@@ -1061,7 +1061,7 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R3"
-			(at 0 -1.43 90)
+			(at 2.335 0.165 90)
 			(layer "F.SilkS")
 			(uuid "aafea6d6-52ef-4c3e-89fe-601a1446ff5f")
 			(effects
@@ -1673,7 +1673,7 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R1"
-			(at 0 -1.43 90)
+			(at 2.66 -0.05 90)
 			(layer "F.SilkS")
 			(uuid "026ec150-48df-4643-908b-f991c6a234f3")
 			(effects
@@ -3742,7 +3742,7 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R4"
-			(at 0 -1.43 90)
+			(at 0.02 1.825 90)
 			(layer "F.SilkS")
 			(uuid "a9ce829d-9a39-47ae-9d4b-ee47b3b3270d")
 			(effects
@@ -4019,7 +4019,7 @@
 		(descr "Diode, DO-41_SOD81 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=5.2*2.7mm^2, https://www.diodes.com/assets/Package-Files/DO-41-Plastic.pdf")
 		(tags "Diode DO-41_SOD81 series Axial Vertical pin pitch 2.54mm  length 5.2mm diameter 2.7mm")
 		(property "Reference" "D4"
-			(at 1.62 2.01 90)
+			(at 1.35 2.265 90)
 			(layer "F.SilkS")
 			(uuid "3d61e0b4-6bc8-4979-b575-2da0b9bc3a65")
 			(effects
@@ -4140,7 +4140,7 @@
 			(uuid "2348ef23-62c6-4125-895c-ef94924e9fef")
 		)
 		(fp_text user "A"
-			(at 4.64 0 90)
+			(at 2.15 -2.16 90)
 			(layer "F.SilkS")
 			(uuid "5eebafd8-18d8-471d-8eeb-6e2d3eb56887")
 			(effects
@@ -5471,7 +5471,7 @@
 		(descr "Connector XT30 Vertical Cable Female, https://www.tme.eu/Document/f2d0830114aabe6ea8d4bb128e962790/XT30U-F.pdf")
 		(tags "RC Connector XT30")
 		(property "Reference" "J6"
-			(at 2.5 0.01 0)
+			(at -2.655 2.825 0)
 			(layer "F.SilkS")
 			(uuid "5f7c3472-de79-4c2c-a7fd-b0f66413fd2d")
 			(effects
@@ -5951,7 +5951,7 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R2"
-			(at 0 -1.43 90)
+			(at 2.35 0.025 90)
 			(layer "F.SilkS")
 			(uuid "06200254-0a25-4ddd-8e54-33893818b587")
 			(effects
