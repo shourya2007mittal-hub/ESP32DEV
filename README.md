@@ -1,6 +1,7 @@
 # ESP32DEV
 
-<img width="887" height="812" alt="Screenshot 2026-07-21 235850" src="https://github.com/user-attachments/assets/2d661b6a-4480-4946-97ce-5028b1950b09" />
+<img width="742" height="927" alt="Screenshot 2026-07-31 202340" src="https://github.com/user-attachments/assets/626c7739-a980-4cd5-ab3d-a724d0dedd07" />
+
 
 I made a custom Devboard based on ESP32-S3-WROOM-1 . It has voltage regulator , LED indicators , Boot Pin and the best part is that all the Pins available on the WROOM-1 is accessible via connector including BOOT, EN, DATA Lines.
 
@@ -30,16 +31,19 @@ I made a custom Devboard based on ESP32-S3-WROOM-1 . It has voltage regulator , 
 
 ### Schematic
 
-<img width="1151" height="617" alt="Screenshot 2026-07-22 003640" src="https://github.com/user-attachments/assets/e7167c90-671b-4fe9-800a-5eebb9034aea" />
+<img width="1091" height="552" alt="Screenshot 2026-07-31 203823" src="https://github.com/user-attachments/assets/6793acdd-f60c-47d4-a12c-fd56433f75ff" />
+
 
 ###  PCB Design
 
-<img width="747" height="767" alt="Screenshot 2026-07-21 235815" src="https://github.com/user-attachments/assets/88e31a02-d970-41c1-b1bd-8dfaf647dc4a" />
+
+<img width="893" height="877" alt="Screenshot 2026-07-31 202324" src="https://github.com/user-attachments/assets/7400868d-c319-4eaf-9d55-50219e4b9b71" />
 
 
 ### 3D Design
 
-<img width="887" height="812" alt="Screenshot 2026-07-21 235850" src="https://github.com/user-attachments/assets/6802fb92-daee-4b76-909c-f1fc0418de2b" />
+<img width="742" height="927" alt="Screenshot 2026-07-31 202340" src="https://github.com/user-attachments/assets/5f2b32e8-8032-4161-bd7c-504e363629fa" />
+
 
 
 
